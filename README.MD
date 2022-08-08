@@ -9,7 +9,7 @@
 
 > ⚠️ Support will not be provided for self-hosted instances. Issues with self-hosted instances opened in this repository will be closed immediately.
 
-- ⚙️ Replace the values ​​indicated in the .env `.env`.
+- ⚙️ Replace the values ​​indicated in the `.env`.
 
 ### Install all the dependencies with:
 ```bash
